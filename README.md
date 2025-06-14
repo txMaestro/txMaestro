@@ -36,7 +36,7 @@
 
 If you find my projects helpful or want to support my open-source work, you can send a donation to any of the addresses below. Every contribution is highly appreciated!
 
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <b>Ethereum (ETH) & EVM Chains</b><br/>
