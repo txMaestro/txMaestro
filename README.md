@@ -28,14 +28,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
-## 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=txMaestro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="txMaestro's GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=txMaestro&layout=compact&theme=dracula" alt="Top Languages"/>
-</p>
-
 ## ❤️ Support My Work
 
 If you find my projects helpful or want to support my open-source work, you can send a donation to any of the addresses below. Every contribution is highly appreciated!
